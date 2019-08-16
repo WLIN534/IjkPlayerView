@@ -7,8 +7,6 @@ IjkPlayerView是一个基于[ijkplayer](https://github.com/Bilibili/ijkplayer)�
 
 ![](https://raw.githubusercontent.com/Rukey7/ScreenShot/master/IjkPlayerView/horizontal3.png)
 ![](https://raw.githubusercontent.com/Rukey7/ScreenShot/master/IjkPlayerView/horizontal.png)
-![](https://raw.githubusercontent.com/Rukey7/ScreenShot/master/IjkPlayerView/send_danmaku.png)
-![](https://raw.githubusercontent.com/Rukey7/ScreenShot/master/IjkPlayerView/danmaku_h.gif)
 ![](https://raw.githubusercontent.com/Rukey7/ScreenShot/master/IjkPlayerView/scale.gif)
 
 ## Using IjkPlayerView

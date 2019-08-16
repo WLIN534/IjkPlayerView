@@ -5,9 +5,7 @@ IjkPlayerView是一个基于[ijkplayer](https://github.com/Bilibili/ijkplayer)�
 
 ## Screenshot
 
-![](https://raw.githubusercontent.com/Rukey7/ScreenShot/master/IjkPlayerView/horizontal3.png)
-![](https://raw.githubusercontent.com/Rukey7/ScreenShot/master/IjkPlayerView/horizontal.png)
-![](https://raw.githubusercontent.com/Rukey7/ScreenShot/master/IjkPlayerView/scale.gif)
+
 
 ## Using IjkPlayerView
 

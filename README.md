@@ -136,28 +136,6 @@ compile 'com.github.Rukey7:IjkPlayerView:{lastest-version}'
 
 ```
 
-库里也提供了自定义弹幕的功能，可根据需要添加，更多信息请查看例子。
-
-```java
-	
-    mPlayerView.init()
-            .enableDanmaku()
-            .setDanmakuCustomParser(new DanmakuParser(), DanmakuLoader.instance(), DanmakuConverter.instance())
-            .setDanmakuSource(stream)
-            .setVideoPath(VIDEO_URL)	
-            .setDanmakuListener(new OnDanmakuListener<DanmakuData>() {
-                    @Override
-                    public boolean isValid() {
-                        return true;
-                    }
-
-                    @Override
-                    public void onDataObtain(DanmakuData data) {
-                    }
-                });
-
-```
-
 
 ### Other
 
@@ -169,15 +147,6 @@ compile 'com.github.Rukey7:IjkPlayerView:{lastest-version}'
 事实上，你要确保在变换为全屏时IjkPlayerView控件能够填充整个屏幕，不然就会出现播放界面被挤压的情况。这个问题是因为全屏的时候是对当前的IjkPlayerView直接做宽高，所以有局限性，你可以参考别的播放库有别的实现方式来避免这个问题。
 
 
-### ChangeLog
-
-##### v1.0.3 -> v1.0.4(1.0.4)
-
-1、最开始依赖版本都在前面加了个‘v’，之前有人反馈库依赖不了是由于少了这个，后面依赖版本加了不带‘v’的；
-
-2、增加多个视频切换播放功能；
-
-3、增加网络异常的处理；
 
 ### Thanks
 

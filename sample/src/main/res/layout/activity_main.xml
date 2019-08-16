@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@mipmap/photo"
+    tools:context="com.zl.playerdemo.MainActivity">
+
+    <Button
+        android:id="@+id/btn_video"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@mipmap/bg_card"
+        android:gravity="center"
+        android:text="竖屏/横屏切换播放"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btn_fullscreen_video"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@mipmap/bg_card"
+        android:gravity="center"
+        android:text="横屏/固定全屏播放"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btn_test_aspect"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@mipmap/bg_card"
+        android:gravity="center"
+        android:text="测试设置视频宽高比"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btn_custom_danmaku"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@mipmap/bg_card"
+        android:gravity="center"
+        android:text="自定义弹幕解析"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btn_switch_video"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@mipmap/bg_card"
+        android:gravity="center"
+        android:text="切换不同视频源"
+        android:textAllCaps="false"/>
+    <Button
+        android:id="@+id/btn_video_choose"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@mipmap/bg_card"
+        android:gravity="center"
+        android:text="切换不同视频源"
+        android:textAllCaps="false"/>
+</LinearLayout>

@@ -1,0 +1,58 @@
+apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
+group = 'com.github.Rukey7'
+
+android {
+    compileSdkVersion 27
+
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 27
+        versionCode 4
+        versionName "1.0.3"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    implementation 'com.android.support:appcompat-v7:25.2.0'
+    testImplementation 'junit:junit:4.12'
+    // ijkplayer
+//    compile 'tv.danmaku.ijk.media:ijkplayer-java:0.7.8.1'
+//    compile 'tv.danmaku.ijk.media:ijkplayer-armv7a:0.7.8.1'
+//    compile 'com.github.Rukey7:ijkplayer-armv7a:0.7.5'
+    // Danmaku
+    implementation 'com.github.ctiao:DanmakuFlameMaster:0.6.2'
+    api project(':ijkplayer-java')
+    api project(':ijkplayerso')
+//    # required, enough for most devices.
+//    compile 'tv.danmaku.ijk.media:ijkplayer-java:0.8.8'
+//    compile 'tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.8'
+
+//    # Other ABIs: optional
+//    compile 'tv.danmaku.ijk.media:ijkplayer-armv5:0.8.8'
+//    compile 'tv.danmaku.ijk.media:ijkplayer-arm64:0.8.8'
+//    compile 'tv.danmaku.ijk.media:ijkplayer-x86:0.8.8'
+//    compile 'tv.danmaku.ijk.media:ijkplayer-x86_64:0.8.8'
+
+//    # ExoPlayer as IMediaPlayer: optional, experimental
+//    compile 'tv.danmaku.ijk.media:ijkplayer-exo:0.8.8'
+}

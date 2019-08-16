@@ -1,0 +1,16 @@
+#Fri Aug 16 14:21:40 CST 2019
+path.3=classes_1.dex
+path.2=classes_0.dex
+path.1=classes.dex
+renamed.4=classes5.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+base.4=F\:\\android2018\\IjkPlayerView\\sample\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\out
+renamed.0=classes.dex
+base.3=F\:\\android2018\\IjkPlayerView\\sample\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\out
+base.2=F\:\\android2018\\IjkPlayerView\\sample\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\out
+base.1=F\:\\android2018\\IjkPlayerView\\sample\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+base.0=F\:\\android2018\\IjkPlayerView\\sample\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.4=classes_2.dex

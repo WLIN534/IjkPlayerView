@@ -1,0 +1,191 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:2:1-50:12
+MERGED from [:playerview] F:\android2018\IjkPlayerView\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-24:12
+MERGED from [com.github.Rukey7:TagLayout:1.0.3] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\3a50f0792636ffa2a9eb6b022c7d104f\AndroidManifest.xml:2:1-17:12
+MERGED from [:ijkplayerso] F:\android2018\IjkPlayerView\ijkplayerso\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\1530870f334428b7a692be8017560c6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\1fff2fb463bd94f3e64db28c87b1dabb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\20cc2016be48b6784ed19bc6fc79557b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\ca838381cd17b2614f8004305d41dff6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\93bb2f1a6dad01b6c2c3daa4cdf3ca9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\56484304a6076b9ddfabd939d647f4b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\3add768a1923a3c136987ee0b8a49cf5\AndroidManifest.xml:17:1-22:12
+MERGED from [:ijkplayer-java] F:\android2018\IjkPlayerView\ijkplayer-java\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.ctiao:DanmakuFlameMaster:0.6.2] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\3954a6c96559d1c06eafeaaeb59f33f0\AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\8404a1147bce1e4e51a8698ac9fc8a5e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\b2fc147bdfa97217172b833f84d11545\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\0e25d53e1515523b75562721893bdd57\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\2ef0f4993b5d8ff91c794d6d65aa8ea0\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:3:11-38
+		INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml
+		INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:5:5-66
+MERGED from [:playerview] F:\android2018\IjkPlayerView\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+MERGED from [:playerview] F:\android2018\IjkPlayerView\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:6:5-67
+MERGED from [:playerview] F:\android2018\IjkPlayerView\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-68
+MERGED from [:playerview] F:\android2018\IjkPlayerView\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:7:5-80
+MERGED from [:playerview] F:\android2018\IjkPlayerView\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+MERGED from [:playerview] F:\android2018\IjkPlayerView\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:8:5-83
+	android:name
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:8:22-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:9:5-79
+MERGED from [:playerview] F:\android2018\IjkPlayerView\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-80
+MERGED from [:playerview] F:\android2018\IjkPlayerView\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:9:22-77
+application
+ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:12:5-48:19
+MERGED from [:playerview] F:\android2018\IjkPlayerView\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-22:19
+MERGED from [:playerview] F:\android2018\IjkPlayerView\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-22:19
+MERGED from [com.github.Rukey7:TagLayout:1.0.3] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\3a50f0792636ffa2a9eb6b022c7d104f\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.Rukey7:TagLayout:1.0.3] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\3a50f0792636ffa2a9eb6b022c7d104f\AndroidManifest.xml:11:5-15:19
+	android:supportsRtl
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:17:9-40
+activity#com.zl.playerdemo.MainActivity
+ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:18:9-26:20
+	android:screenOrientation
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:20:13-49
+	android:name
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:24:27-74
+activity#com.zl.playerdemo.IjkPlayerActivity
+ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:27:9-31:20
+	android:windowSoftInputMode
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:30:13-67
+	android:configChanges
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:29:13-74
+	android:name
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:28:13-46
+activity#com.zl.playerdemo.IjkFullscreenActivity
+ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:32:9-33:20
+	android:name
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:32:19-56
+activity#com.zl.playerdemo.TestAspectActivity
+ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:34:9-37:20
+	android:configChanges
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:36:13-74
+	android:name
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:35:13-47
+activity#com.zl.playerdemo.CustomDanmakuActivity
+ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:38:9-42:20
+	android:windowSoftInputMode
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:41:13-67
+	android:configChanges
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:40:13-74
+	android:name
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:39:13-50
+activity#com.zl.playerdemo.SwitchVideoActivity
+ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:43:9-45:20
+	android:configChanges
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:44:19-80
+	android:name
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:43:19-54
+activity#com.zl.playerdemo.VideoActivity
+ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:46:9-47:76
+	android:configChanges
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:47:13-74
+	android:name
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml:46:19-48
+uses-sdk
+INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml
+INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml
+MERGED from [:playerview] F:\android2018\IjkPlayerView\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:playerview] F:\android2018\IjkPlayerView\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Rukey7:TagLayout:1.0.3] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\3a50f0792636ffa2a9eb6b022c7d104f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Rukey7:TagLayout:1.0.3] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\3a50f0792636ffa2a9eb6b022c7d104f\AndroidManifest.xml:7:5-9:41
+MERGED from [:ijkplayerso] F:\android2018\IjkPlayerView\ijkplayerso\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:ijkplayerso] F:\android2018\IjkPlayerView\ijkplayerso\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\1530870f334428b7a692be8017560c6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\1530870f334428b7a692be8017560c6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\1fff2fb463bd94f3e64db28c87b1dabb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\1fff2fb463bd94f3e64db28c87b1dabb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\20cc2016be48b6784ed19bc6fc79557b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\20cc2016be48b6784ed19bc6fc79557b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\ca838381cd17b2614f8004305d41dff6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\ca838381cd17b2614f8004305d41dff6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\93bb2f1a6dad01b6c2c3daa4cdf3ca9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\93bb2f1a6dad01b6c2c3daa4cdf3ca9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\56484304a6076b9ddfabd939d647f4b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\56484304a6076b9ddfabd939d647f4b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\3add768a1923a3c136987ee0b8a49cf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\3add768a1923a3c136987ee0b8a49cf5\AndroidManifest.xml:20:5-44
+MERGED from [:ijkplayer-java] F:\android2018\IjkPlayerView\ijkplayer-java\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:ijkplayer-java] F:\android2018\IjkPlayerView\ijkplayer-java\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ctiao:DanmakuFlameMaster:0.6.2] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\3954a6c96559d1c06eafeaaeb59f33f0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.ctiao:DanmakuFlameMaster:0.6.2] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\3954a6c96559d1c06eafeaaeb59f33f0\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\8404a1147bce1e4e51a8698ac9fc8a5e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\8404a1147bce1e4e51a8698ac9fc8a5e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\b2fc147bdfa97217172b833f84d11545\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\b2fc147bdfa97217172b833f84d11545\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\0e25d53e1515523b75562721893bdd57\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\0e25d53e1515523b75562721893bdd57\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\2ef0f4993b5d8ff91c794d6d65aa8ea0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\zhanglin\.gradle\caches\transforms-2\files-2.1\2ef0f4993b5d8ff91c794d6d65aa8ea0\AndroidManifest.xml:20:5-44
+INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml
+INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml
+		INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml
+		ADDED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml
+		INJECTED from F:\android2018\IjkPlayerView\sample\src\main\AndroidManifest.xml
+uses-permission#android.permission.BATTERY_STATS
+ADDED from [:playerview] F:\android2018\IjkPlayerView\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-72
+	android:name
+		ADDED from [:playerview] F:\android2018\IjkPlayerView\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:playerview] F:\android2018\IjkPlayerView\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [:playerview] F:\android2018\IjkPlayerView\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-76
